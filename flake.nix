@@ -1,5 +1,5 @@
 {
-  description = "Nyx using NixOS";
+  description = "NixOS";
   outputs = {
     self,
     nixpkgs,

@@ -5,7 +5,6 @@
 }: {
   imports = [
     ../../options/stylix.nix
-
     ../../options/fonts.nix
     ../../options/printing.nix
     ../../options/locale.nix
